@@ -1,0 +1,9 @@
+Inventory Normal mode foren key records will delete twice click in projects
+Inventory cascade mode foren key records will delete on click all over in projects
+
+Inventory.sql run the script file to generate database 
+Inventory.sql Normal mode foren key records will delete twice click in projects
+
+softkey extension
+appkey is registered information (place exe dir to active or rename to appmkey to appkey)
+appmkey is local meachine generate id
